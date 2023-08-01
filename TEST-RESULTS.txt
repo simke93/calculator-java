@@ -1,0 +1,8 @@
+Primenom Black box testiranja nasao sam na sledece greske u programu:
+
+
+1. Broj podeljen sa 0 izbacuje "Infinity" umesto 0 (8/0)
+2. Unosom drugih znakova ili slova umesto aritmetickih program izbacuje "Error" bez poruke da je pogresan znak. (8k8)
+3. Prilikom pokretanja programa nema informaciona poruka koje ekspresije mogu da se koriste.
+4. Kada je program pokrenut pritiskom na taster "Enter" u prazno polje program se zaustavi i zbaci poruku "Process finished with exit code 1
+ 

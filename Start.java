@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Start {
 
 	public static void main(String[] args) {
+		Simple_Test.testExpression(); // import and execute the test
+
+		
 		String Expression;
 		boolean active = true;
 		System.out.println("Enter expression here (type 'exit' to quit):");
